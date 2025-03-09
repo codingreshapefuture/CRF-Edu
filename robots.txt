@@ -1,0 +1,6 @@
+# Robots.txt from CRF Education
+# ---------------------------
+User-agent: *
+Allow: *
+# ---------------------------
+# Hello, what you found here
