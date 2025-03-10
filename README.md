@@ -35,4 +35,4 @@ Với đội ngũ giảng viên giàu kinh nghiệm và am hiểu sâu sắc v�
 
 Bên cạnh đó, CRF Education cũng tập trung vào việc phát triển những kiến thức mới nhất, mang xu hướng thực tiễn, giúp học viên có thể áp dụng kiến thức vào thực tế và phát triển đam mê công nghệ thông tin của mình.
 
-Ngoài ra, học viên conc có cơ hội tham gia mạng lưới nội bộ CRF, kết nối, làm quen và học hỏi kinh nghiệm từ những chuyên gia và những người có chung sở thích, đam mê CNTT - những đồng nghiệp tương lai của bạn! Love in your future!
+Ngoài ra, học viên còn có cơ hội tham gia mạng lưới nội bộ CRF, kết nối, làm quen và học hỏi kinh nghiệm từ những chuyên gia và những người có chung sở thích, đam mê CNTT - những đồng nghiệp tương lai của bạn! Love in your future!
