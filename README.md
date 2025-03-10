@@ -15,11 +15,15 @@ Each folder represents a subject, including learning materials, screenshots, lea
 | 1 | [CMS](./CMS) | Content Management System | Web design with CMS | Finished ✔ |
 | 2 | [DBS](./DBS) | Database System | Database development with SQL Server | Finished ✔ |
 | 3 | [LPI](./LPI) | Linux Professional Institute | System management with Linux server | Planned ❓ |
-| 4 | [GDD](./GDD) | Game Design & Development | Game design and development with Unity | Planned ❓ |
-| 5 | [CCP](./CPP) | C/C++ Programming | First step programming with C/C++ | Planned ❓ |
+| 4 | [GDD](./GDD) | Game Design & Development | Game design and development with Unity | Canceled ❌ |
+| 5 | [CCP](./CPP) | C/C++ Programming | First step programming with C/C++ | Canceled ❌ |
 | 6 | [SEC](./SEC) | Information Security | Walking around Information Security | Planned ❓ |
 | 7 | [NET](./NET) | Networking Fundamentals | Deep into a Network System | Planned ❓ |
 | 8 | [PYT](./PYT) | Python Programming | Advanced programming with Python | Planned ❓ |
+| 9 | [CTZ](./CTZ) | Containerization | Mastering Containerization with Docker | Planned ❓ |
+| 10 | [STG](./STG) | Storage Systems | Manage data storage and distributed system | Planned ❓ |
+| 11 | [K8S](./K8S) | Kubernetes Basics | Simplifying and Mastering Kubernetes | Planned ❓ |
+| 12 | [MON](./MON) | Monitoring System | Comprehensive picture of Monitoring System | Planned ❓ |
 
 ## Description
 
