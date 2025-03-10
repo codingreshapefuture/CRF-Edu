@@ -15,8 +15,8 @@ Each folder represents a subject, including learning materials, screenshots, lea
 | 1 | [CMS](./CMS) | Content Management System | Web design with CMS | Finished ✔ |
 | 2 | [DBS](./DBS) | Database System | Database development with SQL Server | Finished ✔ |
 | 3 | [LPI](./LPI) | Linux Professional Institute | System management with Linux server | Planned ❓ |
-| 4 | [GDD](./GDD) | Game Design & Development | Game design and development with Unity | Canceled ❌ |
-| 5 | [CCP](./CPP) | C/C++ Programming | First step programming with C/C++ | Canceled ❌ |
+| 4 | [GDD](./GDD) | Game Design & Development | Game design and development with Unity | Canceled ✖️ |
+| 5 | [CCP](./CPP) | C/C++ Programming | First step programming with C/C++ | Canceled ✖️ |
 | 6 | [SEC](./SEC) | Information Security | Walking around Information Security | Planned ❓ |
 | 7 | [NET](./NET) | Networking Fundamentals | Deep into a Network System | Planned ❓ |
 | 8 | [PYT](./PYT) | Python Programming | Advanced programming with Python | Planned ❓ |
