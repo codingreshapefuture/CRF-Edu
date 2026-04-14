@@ -18,7 +18,7 @@ Xem tất cả [Khóa học](https://www.youtube.com/@CodingReshapeFuture/course
 | 2 | [DBS](./DBS) | Database System | Database development with SQL Server | Finished ✔ | [Link](https://www.youtube.com/playlist?list=PLRz-2ltlXLUJwWQW07KiU1UlwTblhzovU) |
 | 3 | [LPI](./LPI) | Linux Professional Institute | System management with Linux server | Finished ✔ | [Link](https://www.youtube.com/playlist?list=PLRz-2ltlXLUIkA8i8TC6pGYzzIWi5b7eP) |
 | 4 | [GDD](./GDD) | Game Design & Development | Game design and development with Unity | Finished ✔ | [Link](https://www.youtube.com/playlist?list=PLRz-2ltlXLUKYiFcSG1ME0G5-ukGCHtc_) |
-| 5 | [CCP](./CPP) | C/C++ Programming | First step programming with C/C++ | Canceled ✖️ | Link |
+| 5 | [CCP](./CPP) | C/C++ Programming | First step programming with C/C++ | Planned ❓ | Link |
 | 6 | [SEC](./SEC) | Cybersecurity Security | Certified Ethical Hacker | Finished ✔ | [Link](https://www.youtube.com/playlist?list=PLRz-2ltlXLUIWR3Nmzu5lH-NrAsfScUo0) |
 | 7 | [NET](./NET) | Networking Fundamentals | Deep into a Network System | Planned ❓ | Link |
 | 8 | [PYT](./PYT) | Python Programming | Advanced programming with Python | Planned ❓ | Link |
